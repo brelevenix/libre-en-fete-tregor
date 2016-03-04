@@ -353,7 +353,8 @@ $data_sponsors = array (
       "Huawei",
       "img/logo-Huawei.jpeg",
       "http://www.huawei.com/fr/",
-      ""
+      "Huawei est un leader de solutions dans les domaines des TIC. Innovant en permanence pour répondre aux besoins des clients, Huawei fournit des équipements pour les réseaux télecoms, et des terminaux qui sont utlisés par plus de 170 pays. 
+      "
    ),
    array(
       "Nokia",
